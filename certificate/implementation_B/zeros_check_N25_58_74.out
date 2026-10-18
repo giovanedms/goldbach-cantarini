@@ -1,0 +1,18 @@
+A(10) Ingham=-0.207974 zeros(1e5)=-0.207974
+A(100) Ingham=13.203470 zeros(1e5)=13.203468
+A(500) Ingham=-111.013359 zeros(1e5)=-111.013399
+N=25 T_stieltjes=7.3799  P(N)^2=0.0018  T_stieltjes-2P^2=7.3762 T_stieltjes+2P^2=7.3836
+   K=1000 gamma_max=1419 T_K=6.8567  diff_vs_stieltjes=-0.5232
+   K=4000 gamma_max=4506 T_K=6.7319  diff_vs_stieltjes=-0.6481
+   K=16000 gamma_max=14853 T_K=6.7592  diff_vs_stieltjes=-0.6207
+   K=40000 gamma_max=33190 T_K=6.7247  diff_vs_stieltjes=-0.6552
+N=58 T_stieltjes=12.3251  P(N)^2=7.3257  T_stieltjes-2P^2=-2.3263 T_stieltjes+2P^2=26.9764
+   K=1000 gamma_max=1419 T_K=12.0896  diff_vs_stieltjes=-0.2354
+   K=4000 gamma_max=4506 T_K=11.8481  diff_vs_stieltjes=-0.4770
+   K=16000 gamma_max=14853 T_K=12.2736  diff_vs_stieltjes=-0.0515
+   K=40000 gamma_max=33190 T_K=12.3414  diff_vs_stieltjes=+0.0163
+N=74 T_stieltjes=-41.2733  P(N)^2=8.6016  T_stieltjes-2P^2=-58.4765 T_stieltjes+2P^2=-24.0701
+   K=1000 gamma_max=1419 T_K=-42.7178  diff_vs_stieltjes=-1.4444
+   K=4000 gamma_max=4506 T_K=-41.5804  diff_vs_stieltjes=-0.3071
+   K=16000 gamma_max=14853 T_K=-41.4845  diff_vs_stieltjes=-0.2112
+   K=40000 gamma_max=33190 T_K=-41.2693  diff_vs_stieltjes=+0.0041

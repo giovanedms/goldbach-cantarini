@@ -1,0 +1,31 @@
+{
+  "title": "Code and paper for: A missing term in an explicit formula for Goldbach averages",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "de Morais, Giovane",
+      "affiliation": "Instituto Tecnológico de Aeronáutica (ITA)"
+    }
+  ],
+  "description": "Code, outputs and SHA-256 manifest for the paper showing that the explicit formula for the Goldbach average in Theorem 1 of Cantarini (arXiv:1801.08475) omits the term P(N)^2, where P(N) is the sum of N^rho/rho over the nontrivial zeros of the Riemann zeta function, so that the remainder F(N) is not O(N) and the estimate in Conjecture 2 fails. Includes two independent exact computations of F(N) and the preprint.",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "Goldbach",
+    "explicit formula",
+    "zeros of the Riemann zeta function",
+    "von Mangoldt function"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/giovanedms/goldbach-cantarini",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "arXiv:1801.08475",
+      "relation": "cites",
+      "scheme": "arxiv"
+    }
+  ]
+}

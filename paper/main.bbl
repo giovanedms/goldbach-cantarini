@@ -1,0 +1,62 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{10}
+
+\bibitem{BSP}
+Gautami Bhowmik and Jan-Christoph Schlage-Puchta, \emph{Mean representation
+  number of integers as the sum of primes}, Nagoya Math. J. \textbf{200}
+  (2010), 27--33, arXiv:0806.3295.
+
+\bibitem{BKP}
+J{\"o}rg Br{\"u}dern, Jerzy Kaczorowski, and Alberto Perelli, \emph{Explicit
+  formulae for averages of {G}oldbach representations}, Trans. Amer. Math. Soc.
+  \textbf{372} (2019), no.~10, 6981--6999, arXiv:1712.00737.
+
+\bibitem{Ca}
+Marco Cantarini, \emph{Explicit formula for the average of {G}oldbach numbers},
+  Indian J. Math. \textbf{61} (2019), no.~2, 253--279, Zbl 1425.11165. Preprint
+  version: \emph{Explicit formula for the average of Goldbach and prime tuples
+  representations}, arXiv:1801.08475v1 (2018); all equation and page numbers in
+  the present paper refer to the arXiv version.
+
+\bibitem{Fu}
+Akio Fujii, \emph{An additive problem of prime numbers}, Acta Arith.
+  \textbf{58} (1991), 173--179.
+
+\bibitem{Ga}
+Patrick~X. Gallagher, \emph{A large sieve density estimate near $\sigma=1$},
+  Invent. Math. \textbf{11} (1970), 329--339.
+
+\bibitem{GS}
+Daniel~A. Goldston and Ade~Irma Suriajaya, \emph{On an average {G}oldbach
+  representation formula of {F}ujii}, Nagoya Math. J. \textbf{250} (2023),
+  511--532, arXiv:2110.14250.
+
+\bibitem{In}
+Albert~E. Ingham, \emph{The distribution of prime numbers}, Cambridge Tracts in
+  Mathematics, vol.~30, Cambridge University Press, 1932, Reprinted by
+  Stechert-Hafner, New York, 1964, and Cambridge University Press, 1990.
+
+\bibitem{Li}
+John~E. Littlewood, \emph{Sur la distribution des nombres premiers}, C. R.
+  Acad. Sci. Paris \textbf{158} (1914), 1869--1872.
+
+\bibitem{MV}
+Hugh~L. Montgomery and Robert~C. Vaughan, \emph{Multiplicative number theory
+  {I}. {C}lassical theory}, Cambridge Studies in Advanced Mathematics, vol.~97,
+  Cambridge University Press, 2007.
+
+\bibitem{Od}
+Andrew Odlyzko, \emph{Tables of zeros of the {R}iemann zeta function: the first
+  100,000 zeros}, \url{www-users.cse.umn.edu/~odlyzko/zeta_tables/}.
+
+\bibitem{RS}
+Olivier Ramar{\'e} and Yannick Saouter, \emph{Short effective intervals
+  containing primes}, J. Number Theory \textbf{98} (2003), no.~1, 10--33.
+
+\end{thebibliography}

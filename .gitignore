@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# LaTeX build products (paper/main.pdf and paper/main.bbl are tracked on purpose)
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+paper/*.spl
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
+.DS_Store

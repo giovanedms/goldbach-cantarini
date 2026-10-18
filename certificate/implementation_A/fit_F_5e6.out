@@ -1,0 +1,6 @@
+n=1560  fit F/N = -7.351498 + 0.999933 * P^2/N ; resid sd=6.66e-05 max|res|=2.23e-04
+-4 log(2 pi) = -7.351508
+(F-P^2)/N: mean=-7.351501 sd=6.67e-05 min=-7.351697 max=-7.351278
+F/N: sd=6.344e-02 min=-7.351601 max=-6.996167;  P^2/N max=0.3553
+primorial-type N (n=60): (F-P^2)/N mean=-7.351498 sd=9.98e-05; rG(2N)/2N max=5.487
+corr(F/N, P^2/N)=0.999999;  corr((F-P^2)/N, rG(2N)/2N)=-0.0403

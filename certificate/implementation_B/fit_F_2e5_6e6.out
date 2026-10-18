@@ -1,0 +1,11 @@
+n=409 N in [221121,5990986]
+fit F/N = -7.351500 + 0.999875*P^2/N   resid sd=7.55e-05 max=3.91e-04
+-4 log(2pi) = -7.351508
+(F-P^2)/N: mean=-7.351506 sd=7.58e-05 range=[-7.351816,-7.351116]
+F/N range=[-7.3516,-7.0508]  P^2/N max=0.3006  T/N range=[-3.763,3.922]
+corr(F-P^2, rG/2N)=0.011  corr(F-P^2, P^2/N)=-0.094
+  sd of (F/N - 2*P^2/N) = 5.694e-02
+  sd of (F/N - 1*P^2/N) = 7.581e-05
+  sd of (F/N + 0*P^2/N) = 5.692e-02
+  sd of (F/N + 1*P^2/N) = 1.139e-01
+2N highly composite (rG/2N>3, n=83): (F-P^2)/N mean=-7.351504 sd=7.42e-05

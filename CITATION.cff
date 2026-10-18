@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or the accompanying paper, please cite it as below."
+title: "Code and paper for: A missing term in an explicit formula for Goldbach averages"
+type: software
+authors:
+  - family-names: "de Morais"
+    given-names: "Giovane"
+    email: "giovanedms@gmail.com"
+    affiliation: "Instituto Tecnológico de Aeronáutica (ITA)"
+date-released: "2026-10-18"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/giovanedms/goldbach-cantarini"
+keywords:
+  - Goldbach
+  - explicit formula
+  - zeros of the Riemann zeta function
+  - von Mangoldt function
+  - Cantarini
