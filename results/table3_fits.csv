@@ -1,0 +1,9 @@
+quantity,implementation_A,implementation_B
+n,1560,409
+c,-7.351498,-7.351500
+beta,0.999933,0.999875
+sd_residual,6.66e-05,7.55e-05
+mean_(F-P2)/N,-7.351501,-7.351506
+sd_(F-P2)/N,6.67e-05,7.58e-05
+max_P2/N,0.3553,0.3006
+minus_4_log_2pi,-7.351508,-7.351508

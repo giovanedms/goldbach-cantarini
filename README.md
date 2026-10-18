@@ -95,3 +95,17 @@ cd certificate && sha256sum -c SHA256SUMS
 
 Code and text: MIT (see `LICENSE`). The zeros in `certificate/data/zeros1` are Odlyzko's
 table, see <https://www-users.cse.umn.edu/~odlyzko/zeta_tables/>.
+
+## Result tables
+
+`results/` contains the numerical tables of the paper and the per-N data as CSV, extracted
+from the certificate outputs by `python results/extract_tables.py` (run from the repository root):
+
+| File | Paper | Content |
+|---|---|---|
+| `table2_zeros.csv` | Table 2 | T(N) against the truncated double series T_K(N), K = 1000 ... 40000 |
+| `table3_fits.csv` | Table 3 | fits F(N)/N = c + beta P(N)^2/N in implementations A and B |
+| `data_F_implementation_A.csv` | Figs. 2-3 | per-N values, 1560 N in [10^6, 5*10^6] |
+| `data_F_implementation_B.csv` | Figs. 2-3 | per-N values, 409 N in [2.2*10^5, 6.0*10^6] |
+
+Table 1 of the paper is symbolic (bookkeeping of the terms of the identity) and has no data file.
